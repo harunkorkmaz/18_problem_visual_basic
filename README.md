@@ -1,4 +1,4 @@
-# 18 problem visual basic
+# 18 problems with visual basic
 
 the_multiplication_tabletable()
 find_days_yourlife()
@@ -18,7 +18,3 @@ mood_three()
 mood_five()
 plus_three_loop()
 afibonacci()
-
-
-
-
